@@ -1,6 +1,26 @@
-<h2 align="left">Hi 👋! My name is Joelmo and I'm a BackEnd developer</h2>
+# Portfolio
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joelmohh.joelmohh&"  />
-</div>
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23500&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=7">
+This repository contains the source code of a static portfolio website. The project was created to showcase projects and present information in a simple and organized way.
+
+## Project Overview
+
+The portfolio is a responsive static website designed to work on both desktop and mobile devices. It provides an intuitive interface for navigating through sections such as projects, technologies, and contact.
+
+## Technologies Used
+**HTML**, **CSS** and **JavaScript** 
+
+## Features
+
+- Responsive design  
+- Project showcase  
+- Simple and clean interface  
+
+## Running the Project
+
+Clone the repository and open the file in your browser:
+
+```bash
+git clone https://github.com/username/repository
+cd repository
+```
+Then open `index.html`.
