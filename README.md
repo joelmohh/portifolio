@@ -20,7 +20,7 @@ The portfolio is a responsive static website designed to work on both desktop an
 Clone the repository and open the file in your browser:
 
 ```bash
-git clone https://github.com/username/repository
-cd repository
+git clone https://github.com/joelmohh/portifolio
+cd portifolio
 ```
 Then open `index.html`.
